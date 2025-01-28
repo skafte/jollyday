@@ -12,7 +12,6 @@
     <Fixed month="DECEMBER" day="31" descriptionPropertiesKey="NEW_YEARS_EVE"/>
     <Fixed month="JUNE" day="5" descriptionPropertiesKey="CONSTITUTION_DAY"/>
     <Fixed month="OCTOBER" day="31" descriptionPropertiesKey="ALL_SAINTS_EVA"/>
-    <ChristianHoliday type="EASTER" descriptionPropertiesKey="christian.EASTER"/>
     <ChristianHoliday type="MAUNDY_THURSDAY" descriptionPropertiesKey="christian.MAUNDY_THURSDAY"/>
     <ChristianHoliday type="GOOD_FRIDAY" descriptionPropertiesKey="christian.GOOD_FRIDAY"/>
     <ChristianHoliday type="EASTER_MONDAY" descriptionPropertiesKey="christian.EASTER_MONDAY"/>
